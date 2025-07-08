@@ -1,1 +1,1 @@
-Copyright (c) 2025 Allacks. All rights reserved.
+Copyright (c) 2025 Joel Summa, Allacks. All rights reserved.
